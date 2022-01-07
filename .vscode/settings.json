@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": [
+        "opps",
+        "Sting",
+        "Geeksforgeeks",
+        "Data_Structure/Set/TreeHashSet",
+        "Data_Structure/Set/HashSet",
+        "Data_Structure/List/queue",
+        "Data_Structure/List/Stack",
+        "Data_Structure/List/LinkedList",
+        "Data_Structure/List/DoublyLinkedList",
+        "Data_Structure/List/ArrayList",
+        "Data_Structure/Interface/Comparable",
+        "Algorithms",
+        "Data_Structure/Interface/Comparator"
+    ]
+}
